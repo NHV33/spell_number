@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: spell-number
+Version: 0.1
+Summary: A package to convert numbers to words
+Home-page: https://github.com/NHV33/spell_number
+Author: Noel H. Vincent
+Author-email: noelvincent@me.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+### Spell Number
+A Python script for transcribing integers or decimal numbers into words.
+
+## CLI Usage
+`spell-number 123`
+
+

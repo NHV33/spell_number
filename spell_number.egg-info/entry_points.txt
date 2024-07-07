@@ -1,0 +1,3 @@
+[console_scripts]
+spell-number = spell_number.spell_number:main
+
